@@ -90,3 +90,13 @@ body {
 .about-container {
     grid-area: 1/1/4/-1;
 }
+
+/* full Article */
+.full-container {
+    grid-area: 1/1/-1/-1;
+    text-align: justify;
+}
+.full-container h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
